@@ -1,5 +1,9 @@
 # Flamingo Byte, LLC — Historical Archive
 
+![Flamingo Byte wordmark — historical 2023 design, archival preview](assets/flamingo-byte-logo-preview.png)
+
+*Original 2023 Flamingo Byte branding; small archival display derivative of the privately preserved source.*
+
 > **Historical record • Florida LLC inactive • Not offering services**
 
 **Flamingo Byte** was an independent technology consulting and digital-services business founded by Spencer Armand, with professional activity in **2023–2024**. This repository documents the former business, selected historical work, and surviving evidence. It is **not** an active business website, a solicitation, or a claim that every proposed service or project reached completion.
