@@ -5,7 +5,7 @@ This register records **evidence categories, not confidential document contents*
 | Source | Public/private | Supports | Important limitation |
 | --- | --- | --- | --- |
 | Florida Sunbiz FLAMINGO BYTE LLC, **L23000319637** | Public | Entity identity, inactive status | Does not establish engagements or revenue |
-| Original 2023 SmashingLogo branding packages | Selected artwork intended for public display; originals private | Historical business identity and visual assets | Does not establish trademark registration |
+| Original 2023 SmashingLogo branding packages | Two small display derivatives in public repository; original assets private | Historical business identity and visual assets | Does not establish trademark registration |
 | August 2023 website planning copy | Private | Contemporaneous consulting positioning and site plans | Not proof that every proposed service was delivered |
 | Original October 2023 manuscript | Private | Historical technical/educational writing | Publication not yet verified |
 | July–August 2023 ASA/Flamingo Byte proposed agreements | Private | Consulting arrangement was drafted | At least one examined copy has blank signature fields; not proof of execution |
