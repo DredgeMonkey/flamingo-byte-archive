@@ -4,7 +4,12 @@ The original Flamingo Byte name, pink-flamingo insignia, and wordmark were recov
 
 The full 2023 and later SmashingLogo distributions, alternate logo exports, animations, and promotional assets are **privately preserved**, not blindly uploaded here.
 
-**Public logo previews:** pending upload from the original 2023 artwork. No modifications to the underlying brand are proposed.
+**Public visual previews:**
+
+- [Historical wordmark preview](flamingo-byte-logo-preview.png) — cropped white background and reduced-palette PNG, based on the original 2023 full-logo artwork.
+- [Historical icon preview](flamingo-byte-icon-preview.png) — reduced-resolution and reduced-palette PNG, based on the original 2023 icon artwork.
+
+These display derivatives preserve the recognizable historical designs but are **not byte-for-byte copies of the full-resolution source PNGs**. The source assets remain privately preserved, with their original checksums below.
 
 The privately verified selected originals are:
 
